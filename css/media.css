@@ -1,0 +1,467 @@
+@media screen and (min-width: 1024px) and (max-width: 1280px)
+{
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        margin-top: 10%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        margin: 20px 50px 0 50px;
+    }
+
+	#section1 p
+    {
+        margin: 0;
+        font-size: 16px;
+    }
+
+    .bold
+	{
+	    font-size: 18px;
+
+	    color: #e60073;
+	}
+
+	table
+{
+    font: 20px 'Indie Flower', cursive,Times, sans-serif;
+}
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 10% auto 0 ;
+    }
+}
+
+@media screen and (min-width: 967px) and (max-width: 1023px)
+{
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        margin-top: 5%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        margin: 5px 50px 0 50px;
+    }
+
+    table
+    {
+        font: 22px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 10px;
+    }
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 20% auto 0 ;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 966px)
+{
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        font: 26px 'Julee', cursive,Times, sans-serif;
+
+        margin-top: 10%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        font: 16px 'Indie Flower', cursive,Times, sans-serif;
+        margin: 2px 50px 0 50px;
+    }
+
+	#section1 p
+    {
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .bold
+{
+    font-size: 14px;
+
+
+}
+
+    table
+    {
+        font: 18px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 8px;
+    }
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 15% auto 0 ;
+    }
+}
+
+@media screen and (min-width: 603px) and (max-width: 768px)
+{
+    nav
+    {
+        font-size: 16px;
+        height: 25px;
+    }
+
+    section
+    {
+        font-size: 11px;
+
+        height: 32px;
+    }
+
+    nav li
+    {
+        margin: 5px;
+    }
+
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        font: 25px 'Julee', cursive,Times, sans-serif;
+
+        margin-top: 10%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        font: 13px 'Indie Flower', cursive,Times, sans-serif;
+
+        margin: 2px;
+        margin-left: 2px;
+    }
+
+    #section1 p
+    {
+        margin: 0;
+        font-size: 10px;
+    }
+
+    .bold
+{
+    font-size: 11px;
+
+
+}
+
+    table
+    {
+        font: 13px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 5px;
+    }
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 15% auto 0 ;
+    }
+}
+
+@media screen and (min-width: 533px) and (max-width: 602px)
+{
+    nav
+    {
+        font-size: 12px;
+
+        height: 14px;
+    }
+
+    nav li
+    {
+        margin: 0;
+    }
+
+    section
+    {
+        font-size: 9px;
+
+        height: 22px;
+    }
+
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        font: 18px 'Julee', cursive,Times, sans-serif;
+
+        margin-top: 10%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        font: 12px 'Indie Flower', cursive,Times, sans-serif;
+
+        margin: 2px;
+        margin-left: 0;
+    }
+
+
+    #section1 p
+    {
+        margin: 0;
+        font-size: 10px;
+    }
+
+    .bold
+{
+    font-size: 11px;
+
+
+}
+
+    table
+    {
+        font: 13px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 3px;
+    }
+
+ 
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 15% auto 0 ;
+    }
+}
+
+@media screen and (min-width: 412px) and (max-width: 532px)
+{
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
+    nav
+    {
+        font-size: 11px;
+
+        height: 15px;
+    }
+
+    nav li
+    {
+        margin: 0;
+    }
+
+    nav li a,
+    nav li.active a
+    {
+        display: block;
+
+        padding: 5px 10px;
+    }
+
+    section
+    {
+        font-size: 9px;
+
+        height: 30px;
+    }
+
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        font: 18px 'Julee', cursive,Times, sans-serif;
+
+        margin-top: 10%;
+    }
+
+    #section0 h1
+    {
+        margin-top: 20%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        font: 11px 'Indie Flower', cursive,Times, sans-serif;
+
+        margin: 2px;
+        margin-left: 0;
+    }
+
+        #section1 p
+    {
+        margin: 0;
+        font-size: 9px;
+    }
+
+    .bold
+{
+    font-size: 9px;
+
+
+}
+
+  
+
+    table
+    {
+        font: 11px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 2px;
+    }
+
+
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 13% auto 0 ;
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 411px)
+{
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
+    nav
+    {
+        font-size: 12px;
+
+        height: 20px;
+    }
+
+    nav li
+    {
+        margin: 3px;
+    }
+
+    nav li a,
+    nav li.active a
+    {
+        display: block;
+
+        padding: 5px 5px;
+    }
+
+    section
+    {
+        font-size: 7px;
+
+        height: 20px;
+    }
+
+    #section0 h1,
+    #section1 h1,
+    #section2 h1
+    {
+        font: 18px 'Julee', cursive,Times, sans-serif;
+
+        margin-top: 10%;
+        margin-bottom: 0;
+    }
+
+    #section0 h1
+    {
+        margin-top: 30%;
+    }
+
+    #section0 p,
+    #section1 p,
+    #section2 p
+    {
+        font: 12px 'Indie Flower', cursive,Times, sans-serif;
+
+        margin: 0;
+        margin-left: 0;
+    }
+
+    #section1 p
+    {
+        font-size: 10px;
+    }
+
+ 	#section1 h1
+    {
+        margin-top: 10%;
+    }
+
+     #section2 h1
+    {
+        margin-top: 35%;
+    }
+    .bold
+    {
+        font-size: 10px;
+    }
+
+    table
+    {
+        font: 12px 'Indie Flower', cursive,Times, sans-serif;
+
+        border-spacing: 0;
+    }
+
+    /************ Слайдер **************/
+
+    .fotorama
+    {
+        margin: 35% auto 0 ;
+        width: 100%;
+    }
+}
+
